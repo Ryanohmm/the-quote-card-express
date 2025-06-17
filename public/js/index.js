@@ -1,7 +1,7 @@
-"use strict"
+/*"use strict"
 
 async function getRandomImage() {
-    const client_id = "";
+    const client_id = "Mv_eoDK6zgNc37Me3hSR6QkU1tNlsoUenxRrUbQ3lxs";
     const endpoint = `https://api.unsplash.com/photos/random/?client_id=${client_id}`;
     try {
         const response = await fetch(endpoint);
@@ -13,7 +13,7 @@ async function getRandomImage() {
     } catch (error) {
         console.error(error)
     }
-}
+}*/
 
 
 
