@@ -12,7 +12,7 @@
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-color: linear-gradient(black, grey, white);
+    background-color: black;
 }
 
 
@@ -40,7 +40,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(black, white, red);
+    background: black;
     border-radius: 0;
     border: solid black;
     margin: 15px;
